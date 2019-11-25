@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kryptoknight-259909",
+  "private_key_id": "b8049b39f79b4b328ba9118b8c7e24808726fd93",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2VdfIKfaa06BO\n+VPtIoUoCGvd7EC61OZ7ao2NvurDAKYUMT9Nr6TjcHjL5jh/iiB58SdVVFprukyb\nYwcZYv6kJlSEv0pRqeTZOCBAUR92ZO6ueZ0fwRlsjqBDpS638RAejb7JpsJCRm12\n7zSt+zRnHDPrSDJtMdk+zAMiQTYcFrtT1d4mG7LU8mo6zl1s+HbhGUPvqWY7oAow\nuuoVQL2SVijHBRKn+i+AY9JOT3kr3W5HuNn7bLY9YZrMt2uedyLnTZ3mosLjTt8y\n8e5HXGPuTQu/a6a/FG8G28rJNHc4Sz/j7f6hklrj3zf+P9j32JmlODU5mi7VUDlL\nPr41QVOXAgMBAAECggEAATfDAVwwnPfIxUOYt2exkFFGhrdt2iNhVZlbFzxUQoXx\nh83+2GknMUgjwC6qLvBVvNyK+cRQaLyRMk7vvJdILOUNT5LHSFoETwCo6LUQOR8o\ndSyli4Mjmn+8QmdnbDMzl9w0ZGcuAflsjr6GX5ri+Tbino4tnO7CsKQu956MNz/p\nYUQawi12SFF8fkanoUM/IUNW5X7jS9cehfRGVnd8AxP9Xjuw6M4sz1VYIAHtLnc7\nkujv7nJM0caQy8ESyYqYXZAyIHAK7DKKYVJwDTRxFjT+60XwkBEytdDPNRaxWDld\nghORSQWug/3BF26rj1nPTgl3AmQDM2hT1rBF6PoArQKBgQDyRJRMtfFgFHeV/q7i\nKl30F5P/REsfBEqCfrRjjbZBRypPiIFmN3DYMmp1sh0mmMpxXnTfGYJVQk5A9Fav\nXOunQFA6QqFd33Xdlvfa9EeXCfPM+vBBhP/W8bkazd8gK/ypb5F6d8Zi7i2god4m\nZa0TjwahucwdfM/6Ntf6G8dQKwKBgQDAq50t+rWzzWJX3eBO5IP9/TMqpIqORXwc\nuSEYX0pkcNw+W237wNaivqlkZbX2+qyuhf9rHGUKeg3qYAIxjEdnJ69dGMcvyJrW\nWJlCjHcL3vBzmo2fH2HkM7LOUssxaBo8+YgzXp1akUzBIhn2Asvobi9nlx77n4sN\nU284mQYoRQKBgE5gZWHT0rz0oiOCe21rq22WWyjQHUVxi/FfsFgstnOz5DpKvSIm\neXlYBh0BfHDKKWQ33LN4ezO9+bcF1S1ycEJxigLvH2lRK75+Yr0RHj/81kTQQf3Q\nWzxcgzfqtm6gDGN8VqI6MZI738MB2u6tIisbsFeN1j0L7fTS3VhquDZ1AoGBAKvV\n4x9o5Llxye330uBJ6naSZhn4GiL9Uc4ERsIH6r9d8PAkdxj7SfJn/YevNvUJaQ1W\nMREEiBEp/lM0QYCTTfNwb3Smbq/tSDs3VakGwf3yXZ2dEAYE5Tez7BsbuGFeKViM\nbK70CX8G69+sXF8O63FnJBxNqbJc/pVp/l4KDHXJAoGARH03q6YkOW7jot9M6gHV\nsYpBhBSnB5Qmic58x/szyBdslHYgIP0ALRdegGzEC0JEgQRrhx/vg/etxbjZ0Gpv\nKwjwaCqZuH6TGOo6M8G1kzMjLXtEmOHRq4AvEUu/0WNVmidI2GCeTxeOHONvHxU5\nSqMrfQDmjch/LcfWMqGlAZA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "github-gke-sa@kryptoknight-259909.iam.gserviceaccount.com",
+  "client_id": "117963926361662648267",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/github-gke-sa%40kryptoknight-259909.iam.gserviceaccount.com"
+}
